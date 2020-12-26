@@ -1,0 +1,18 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "description": "Componentes visuales reutilizables con Tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "components"
+  },
+  "keywords": [
+    "components"
+  ],
+  "author": "Alexis Barba",
+  "license": "ISC"
+}
